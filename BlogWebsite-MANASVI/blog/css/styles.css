@@ -1,0 +1,75 @@
+body{
+	font-family: Times New Roman, sans-serif;
+	margin: 0;
+	padding: 0;
+	background-color: #f4f4f4;
+}
+
+.container{
+	width: 80%;
+	margin: 20px auto;
+	background: #fff;
+	padding: 20px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header{
+	background: #153448;
+	color: #fff;
+	padding: 10px 0;
+	text-align: center;
+}
+
+header .logo img{
+	height: 250px;
+}
+
+footer .bg img{
+	height: 210px;
+}
+
+footer .bg2 img{
+	height: 210px;
+}
+
+footer .bg1 img{
+	height: 210px;
+}
+
+footer .bg3 img{
+	height: 210px;
+}
+
+header a{
+	color: #fff;
+	text-decoration: none;
+	padding: 0 10px;
+}
+
+h1{
+	margin: 0;
+}
+
+form{
+	margin: 20px 0;
+}
+
+input[type="text"],
+textarea{
+	width: 100%;
+	padding: 10px;
+	margin: 10px 0;
+	border: 1px solid #ddd;
+}
+
+button{
+	padding: 10px 20px;
+	background: #153448;
+	color: #fff;
+	border: none;
+	cursor: pointer;
+}
+
+button:hover{
+	background: #555;
+}
