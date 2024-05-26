@@ -1,0 +1,25 @@
+.blog-list {
+    margin: 20px auto;
+    max-width: 800px;
+  }
+  
+  .blog-preview {
+    background: #f4f4f4;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .blog-preview h2 {
+    color: #333;
+  }
+  
+  .blog-preview p {
+    color: #666;
+  }
+  
+  .blog-preview a {
+    text-decoration: none;
+  }
+  

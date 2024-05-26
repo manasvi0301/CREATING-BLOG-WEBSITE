@@ -1,0 +1,32 @@
+.blog-post {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #f4f4f4;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .blog-post h1 {
+    color: #333;
+  }
+  
+  .blog-post p {
+    color: #666;
+  }
+  
+  .blog-post button, .blog-post a {
+    margin: 10px 5px;
+    padding: 10px 20px;
+    color: white;
+    background: #007bff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  
+  .blog-post button:hover, .blog-post a:hover {
+    background: #0056b3;
+  }
+  
